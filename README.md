@@ -39,7 +39,7 @@
 
 <h3 id="aprendizados">Aprendizados</h3>
 <ul>Os aprendizados reforçados e adquiridos durante a execução desse projeto serão atualizados constantemente:
-  <li></li>
+  <li>Manipulação de arrays com DOM</li>
 </ul> 
 
 <h2 id="autora" align="left">Autora</h2>
